@@ -17,7 +17,7 @@ def get_inputs():
     iam_role_name - no need to modify
     policy_name - no need to modify
     """
-    profile = "Deloitte-US-AWSSupport-DUINDIA"
+    profile = "CLOUDECONOMICS-ADMIN-NPD"
     report_name = "DCMS_CUR"
     client_name = "DUIndia-didimqwk"
     source_bucket_prefix = "-cur-report-bucket"
